@@ -7,6 +7,6 @@ Project using Cypress to automate https://www.monkeyuser.com
 `npm install cypress --save-dev`
 
 
-Clone Repo and change directory to /path/to/cypress
+Clone Repo and change directory to /path/to/cypress_automation
 
 **Run following command to run tests:** `npm run cypress:open`
